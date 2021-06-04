@@ -1,0 +1,5 @@
+For execute the script without command
+
+chmod -x filename.sh
+
+Execute command:- ./filename.sh
